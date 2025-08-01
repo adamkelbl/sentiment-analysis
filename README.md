@@ -5,4 +5,4 @@ The goal is to assess whether sentiment indicators — such as search volume, ne
 
 - My first "bigger" data analysis/ML project
 - Did my best
-- There are of course still ways to improve
+- There are of course still aspects to improve
